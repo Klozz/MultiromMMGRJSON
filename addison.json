@@ -5,7 +5,7 @@
 	"gpg": false,
 	"devices":
 		[
-		{"files":
+			{"files":
 				[
 					{
 						"url": "https://sourceforge.net/projects/xperience-aosp/files/multirom/addison/multirom-20170520-v33-UNOFFICIAL-addison.zip/download",
@@ -28,6 +28,13 @@
 						"size": 1653436,
 						"md5": "49f43471222fe521f25b0e5184020f53"
 					}
-	                      ]
-		 ]
-}
+			        ],
+			"name": "addison",
+			"ubuntu_touch":  
+     				{
+					"req_multirom": "",
+					"req_recovery": ""
+				}
+			 }
+		   ]
+	}
