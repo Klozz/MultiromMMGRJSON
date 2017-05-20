@@ -1,0 +1,26 @@
+{
+	"status": "ok",
+	"date": "2017-05-20",
+	"commands": "",
+	"gpg": false,
+	"devices":
+		[
+		{"files":
+				[
+					{
+						"url": "https://sourceforge.net/projects/xperience-aosp/files/multirom/addison/multirom-20170520-v33-UNOFFICIAL-addison.zip/download",
+						"version": "33",
+						"type": "multirom",
+						"size": 3995977,
+						"md5": "e0232c74231951bb44fc4fb2693db0e3"
+					},
+					{
+						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/TWRP_multirom_bacon_20160417-01.img",
+						"version": "mrom20170520",
+						"type": "recovery",
+						"size": 13471744,
+						"md5": "88ae6eec19b2fa511aa2e035681d46d7"
+					},
+	           ]
+		]
+}
