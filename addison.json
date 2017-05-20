@@ -21,6 +21,13 @@
 						"size": 13471744,
 						"md5": "88ae6eec19b2fa511aa2e035681d46d7"
 					},
-	           ]
-		]
+					{
+						"url": "https://sourceforge.net/projects/xperience-aosp/files/multirom/addison/multirom_uninstaller.zip/download",
+						"version": "",
+						"type": "uninstaller",
+						"size": 1653436,
+						"md5": "49f43471222fe521f25b0e5184020f53"
+					}
+	                      ]
+		 ]
 }
