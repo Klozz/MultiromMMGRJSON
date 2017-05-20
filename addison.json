@@ -15,8 +15,8 @@
 						"md5": "e0232c74231951bb44fc4fb2693db0e3"
 					},
 					{
-						"url": "https://sourceforge.net/projects/xperience-aosp/files/multirom/addison/MULTIROM-TWRP-3.1.1-Addison-unnoficial.img/download",
-						"version": "3.1.1-Addison",
+						"url": "https://sourceforge.net/projects/xperience-aosp/files/multirom/addison/TWRP_multirom_addison_20170520-01.img/download",
+						"version": "mrom20170520-01",
 						"type": "recovery",
 						"size": 13471744,
 						"md5": "88ae6eec19b2fa511aa2e035681d46d7"
